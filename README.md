@@ -104,9 +104,6 @@ streamlit
 
 ---
 
-## 📄 License
-
-This project is open source. See the repository for details.
 
 ---
 
